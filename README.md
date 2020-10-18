@@ -1,0 +1,2 @@
+# Text-Data-For-Whatsapp-Status-Emotion-Prediction-using-NLP
+This data set contains textual data for the prediction of the human emotion. WhatsApp status written in English, has been scraped from various websites. Three basic emotions sad, happy and angry has been scraped differently. Every data set contains two columns one the status and another sentiment of that status. With the help of this data, prediction of the emotion of whatsapp status can be determined.
